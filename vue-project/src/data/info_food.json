@@ -1,0 +1,93 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Kari",
+        "category": "Main Dish",
+        "price": 5.5,
+        "image": "gallery/03.jpg",
+        "isVegan": false,
+        "isGlutenFree": false,
+        "isLowCalorie": false,
+        "isLactoseFree": false
+      },
+      {
+        "id": 2,
+        "name": "Pizza 4chedder",
+        "category": "Soup",
+        "price": 3.5,
+        "image": "gallery/02.jpg",
+        "isVegan": true,
+        "isGlutenFree": true,
+        "isLowCalorie": true,
+        "isLactoseFree": true
+      },
+      {
+        "id": 3,
+        "name": "Šopský",
+        "category": "Salad",
+        "price": 4.0,
+        "image": "gallery/01.jpg",
+        "isVegan": true,
+        "isGlutenFree": true,
+        "isLowCalorie": false,
+        "isLactoseFree": true
+      },
+      {
+        "id": 4,
+        "name": "Caesar + soda",
+        "category": "Combo",
+        "price": 7.0,
+        "image": "gallery/04.jpg",
+        "isVegan": false,
+        "isGlutenFree": false,
+        "isLowCalorie": true,
+        "isLactoseFree": false
+      },
+      {
+        "id": 5,
+        "name": "Meatballs",
+        "category": "Main Dish",
+        "price": 6.5,
+        "image": "gallery/05.jpg",
+        "isVegan": true,
+        "isGlutenFree": false,
+        "isLowCalorie": true,
+        "isLactoseFree": false
+      },
+      {
+        "id": 6,
+        "name": "Ranajky",
+        "category": "Desert",
+        "price": 3.0,
+        "image": "gallery/06.jpg",
+        "isVegan": true,
+        "isGlutenFree": true,
+        "isLowCalorie": true,
+        "isLactoseFree": true
+      },
+      {
+        "id": 7,
+        "name": "Pikantny",
+        "category": "Salad",
+        "price": 4.5,
+        "image": "gallery/07.jpg",
+        "isVegan": true,
+        "isGlutenFree": true,
+        "isLowCalorie": false,
+        "isLactoseFree": true
+      },
+      {
+        "id": 8,
+        "name": "Gedzy + čaj",
+        "category": "Combo",
+        "price": 8.0,
+        "image": "gallery/08.jpg",
+        "isVegan": false,
+        "isGlutenFree": false,
+        "isLowCalorie": true,
+        "isLactoseFree": false
+      }
+    ]
+}
+  

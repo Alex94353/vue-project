@@ -1,0 +1,45 @@
+{
+    "places": [
+      {
+        "id": 1,
+        "name": "The Garden on Broadway",
+        "location": "Bratislava, Slovensko",
+        "description": "Moderná reštaurácia s krásnym interiérom a príjemnou atmosférou.",
+        "image": "/images/img_1.jpg",
+        "rating": 3.5
+      },
+      {
+        "id": 2,
+        "name": "Elegant Bar",
+        "location": "Košice, Slovensko",
+        "description": "Luxusný bar ideálny na večerné posedenie s kokteilmi.",
+        "image": "/images/img_2.jpg",
+        "rating": 4.0
+      },
+      {
+        "id": 3,
+        "name": "Cozy Cafe",
+        "location": "Žilina, Slovensko",
+        "description": "Pohodlná kaviareň s výbornou kávou a domácimi koláčmi.",
+        "image": "/images/img_3.jpg",
+        "rating": 4.5
+      },
+      {
+        "id": 4,
+        "name": "Romantic Dinner Spot",
+        "location": "Trnava, Slovensko",
+        "description": "Ideálne miesto na romantickú večeru s útulnou atmosférou.",
+        "image": "/images/img_4.jpg",
+        "rating": 4.9
+      },
+      {
+        "id": 5,
+        "name": "City Bistro",
+        "location": "Nitra, Slovensko",
+        "description": "Štýlové bistro s rôznymi druhmi street foodu a skvelými nápojmi.",
+        "image": "/images/img_5.jpg",
+        "rating": 4.0
+      }
+    ]
+  }
+  
