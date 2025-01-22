@@ -1,6 +1,6 @@
 <template>
   <v-app-bar app color="primary" dark>
-    <v-toolbar-title>E-Jedáleň</v-toolbar-title>
+    <v-toolbar-title><v-icon>mdi-ember</v-icon>-Jedáleň<v-icon>mdi-pasta</v-icon></v-toolbar-title>
     <v-spacer></v-spacer>
     <v-btn text to="/">Domov</v-btn>
     <v-btn text to="/menu">Jedálny lístok</v-btn>
