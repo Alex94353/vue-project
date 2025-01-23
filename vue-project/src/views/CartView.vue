@@ -6,12 +6,10 @@
         v-for="item in menuStore.cart"
         :key="item.name"
       >
-        <v-list-item-content>
-          <v-list-item-title>{{ item.name }}</v-list-item-title>
-          <v-list-item-subtitle>
-            Cena: {{ item.price }} € × {{ item.quantity }}
-          </v-list-item-subtitle>
-        </v-list-item-content>
+        <v-list-item-title>{{ item.name }}</v-list-item-title>
+        <v-list-item-subtitle>
+          Cena: {{ item.price }} € × {{ item.quantity }}
+        </v-list-item-subtitle>
         <v-list-item-action>
           <v-btn
             icon
